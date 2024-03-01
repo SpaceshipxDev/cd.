@@ -1,0 +1,21 @@
+{
+  "name": "finalshotx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/speech": "^6.3.0",
+    "@google/generative-ai": "^0.1.3",
+    "chromadb": "^1.8.1",
+    "express": "^4.18.3",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "openai": "^4.28.4",
+    "socket.io": "^4.7.4"
+  }
+}
